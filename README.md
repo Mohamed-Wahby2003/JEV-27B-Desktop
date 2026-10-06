@@ -2,7 +2,7 @@
 
 **JEV 27B Ollama** (September 27, 2026) is the local GGUF. jev ai model, jev model, typesafe jev, jev huggingface, jev llm, jev api, jev playground. `ollama run hf.co/Atlas3D/JEV-27B-VL-GGUF`. Windows 10/11 x64.
 
-<img width="400" height="400" alt="images1" src="https://github.com/user-attachments/assets/3a5903c4-b729-450b-a423-5e8727b2a26a" />
+<img width="200" height="200" alt="images1" src="https://github.com/user-attachments/assets/3a5903c4-b729-450b-a423-5e8727b2a26a" />
 
 <img width="1609" height="977" alt="images3" src="https://github.com/user-attachments/assets/09e7063e-747a-4150-b3a7-7a51eab80b76" />
 
