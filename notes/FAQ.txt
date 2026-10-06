@@ -1,0 +1,3 @@
+/* rev-e9b30c-20261006 */
+FAQ.txt
+system1 needs llama.cpp patch ollama chat is system2

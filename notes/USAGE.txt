@@ -1,0 +1,3 @@
+/* rev-e9b30c-20261006 */
+USAGE.txt
+install ollama run hf.co atlas3d jev-27b-vl-gguf
